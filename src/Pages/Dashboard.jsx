@@ -1,5 +1,5 @@
 import React from "react";
-import QuickLinks from "../components/Dashboard2/QuickLinks";
+// import QuickLinks from "../components/Dashboard2/QuickLinks";
 import Row1 from "../components/Dashboard2/Row1";
 import Row3 from "../components/Dashboard2/Row3";
 import Row4 from "../components/Dashboard2/Row4";
@@ -21,7 +21,7 @@ const Dashboard = () => {
       <Row67 />
       <Row9 />
       <Row10 />
-      <QuickLinks />
+      {/* <QuickLinks /> */}
     </div>
   );
 };
